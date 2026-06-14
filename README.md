@@ -1,6 +1,6 @@
 # Hi, I'm Nitika Vaish 👋
 
-🎓 2nd Year Electronics Engineering Student
+🎓 3rd Year Electronics Engineering Student
 
 💻 Frontend Developer (React)
 
